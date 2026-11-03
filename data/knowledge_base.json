@@ -1,0 +1,12 @@
+{
+    "0": "O número 0 representa o conceito de vazio ou elemento neutro na adição. Na computação clássica e álgebra booleana, é o estado lógico falso ou a ausência de sinal elétrico.",
+    "1": "O número 1 é o elemento neutro da multiplicação. Na linguagem de máquina e sistemas binários, representa o estado verdadeiro, ligado ou presença de pulso elétrico.",
+    "2": "O número 2 é o único número primo que é par. Ele é a base do sistema binário, que é a linguagem fundamental de todos os processadores e arquiteturas de computadores modernos.",
+    "3": "O número 3 é o primeiro número primo ímpar. Na geometria, é o número mínimo de lados necessários para formar um polígono fechado, sendo a estrutura mais estável na física.",
+    "4": "O número 4 é um quadrado perfeito. Na engenharia de software, é altamente representativo, pois quatro bytes formam o tamanho padrão de números inteiros na maioria das linguagens.",
+    "5": "O número 5 é um número primo. Ele é a base auxiliar do nosso sistema de contagem decimal natural, historicamente derivado dos cinco dedos da mão humana.",
+    "6": "O número 6 é o primeiro número perfeito da matemática, o que significa que a soma dos seus divisores próprios (um, dois e três) é exatamente igual a ele mesmo.",
+    "7": "O número 7 é um número primo fortemente enraizado em padrões naturais, matemáticos e culturais, como os sete dias da semana e as sete camadas do modelo OSI.",
+    "8": "O número 8 é uma potência direta de dois. Na arquitetura de computadores, ele define exatamente um Byte (oito bits), a unidade fundamental de alocação de memória.",
+    "9": "O número 9 é o maior número de um único caractere no sistema decimal. É um quadrado perfeito e frequentemente usado na computação em testes de stress numérico."
+}
