@@ -35,3 +35,4 @@ async def health_check():
     if ml_service.model is None:
         raise HTTPException(status_code=500, detail="Serviço ativo, mas ML não está na RAM.")
     return {"status": "online", "rag_active": True, "mcp_ready": True}
+# RAG carregado no lifespan
