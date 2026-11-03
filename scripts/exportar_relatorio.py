@@ -50,3 +50,4 @@ def exportar_relatorio():
 
 if __name__ == "__main__":
     exportar_relatorio()
+# Script de exportacao MLOps concluido
